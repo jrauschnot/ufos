@@ -14,7 +14,7 @@ An analysis of UFO data using JavaScript to create a dynamic interface of UFO si
 * Software: JavaScript
 
 ## Results:
-- The UFO finder may be utilized to filter search criteria using 1-5 key attributes: Date, City, State, Country, and Shape of the object (see image below). 
+- The UFO finder may be utilized to filter search criteria using 1-5 key attributes: Date, City, State, Country, and/or Shape of the object (see image below). 
 
 <img width="288" alt="Screen Shot 2022-03-02 at 9 04 24 PM" src="https://user-images.githubusercontent.com/93015602/156499814-293fe046-a38c-4002-8867-fb1c16506911.png">
 
@@ -26,10 +26,10 @@ An analysis of UFO data using JavaScript to create a dynamic interface of UFO si
 
 - Design drawback: 
 
-    * A design drawback is that the UFO website filter only allows data to be filtered and evaluated in a read format without ability to download or add new data points or UFO encounters. 
+    * A design drawback is that the UFO website filters only allows data to be filtered and evaluated in a read format without ability to download or add new data points (ie. UFO encounters). 
 
 - Design recommendations: 
 
-    *  Allow write capabilities for new validated UFO encounters to be added to the data set. 
+    *  Allow for write capabilities that allow users to add new validated UFO encounters to the data set. 
 
-    * Alloow data to be exported as a .csv file for additional analysis based upon relative geographic location to other data points. 
+    * Allow data to be exported as a .csv file or .xlsm for additional analysis based upon relative geographic location to other data points. 
